@@ -1,4 +1,4 @@
-## Paweł Kazubski
+## Paweł Kazubski CV
 
 Date of birth: 09/04/1999 
 Nationality: Polish 
