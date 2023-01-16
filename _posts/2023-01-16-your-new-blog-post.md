@@ -7,13 +7,13 @@ Phone number: (+48) 667876671 (Mobile) Email address: pawelkazub@gmail.com
 Address: Kwiatowa 18, 55-095, Mirków, Poland (Home)
 Address: Madird, Spain (Second address)
 
-#About me:
+About me:
 A highly skilled and versatile individual nearing completion of a Master's degree
 with a diverse set of abilities in customer service, marketing, sales, and
 investment banking. Seeking new opportunities to continue to expand and
 apply my skill set in a professional setting.
 
-#Expirience
+Expirience
 FINANCIAL ANALYST BANK OF NEW YORK MELLON (01/02/2022 – 31/08/2022 Wrocław, Poland)
 As an Analyst at the Luxembourg Branch of BNY Mellon, I was responsible for the accurate processing and
 maintenance of partnership registers and documentation flow for private equity funds under the
@@ -42,7 +42,7 @@ MASTER OF SCIENCE IN MANAGEMENT (MANAGERIAL BEHAVIOR AND DECISIONS)
 01/03/2022 – CURRENT Wrocław, Poland
 Univeristy of Science and Technology
 
-#Summury
+Summury
 I am currently pursuing a Master of Science in Management with a focus on Managerial Behavior and
 Decisions. I am also on a one-year exchange program at Universidad Pontificia Comillas ICAI-ICADE in
 Madrid, Spain, which is considered one of the best private universities in the country. This field of study
