@@ -1,6 +1,6 @@
 ## Blog post
 
-5 Ways to Boost Your Productivity at Work  
+5 Ways to Boost Your Productivity at Work:  
 
 Set clear goals: Start each day by setting clear and specific goals for what you want to accomplish. This will give you a sense of purpose and direction, and help you stay focused on what's important.  
 
