@@ -1,22 +1,27 @@
 ## This is my first blog post
 
-Date of birth: 09/04/1999 Nationality: Polish Gender: Male Phone
-number: (+48) 667876671 (Mobile) Email address: pawelkazub@gmail.com
+Date of birth: 09/04/1999 
+Nationality: Polish 
+Gender: Male 
+Phone number: (+48) 667876671 (Mobile) Email address: pawelkazub@gmail.com
 Address: Kwiatowa 18, 55-095, Mirków, Poland (Home)
 Address: Madird, Spain (Second address)
+
 About me:
 A highly skilled and versatile individual nearing completion of a Master's degree
 with a diverse set of abilities in customer service, marketing, sales, and
 investment banking. Seeking new opportunities to continue to expand and
 apply my skill set in a professional setting.
-01/02/2022 – 31/08/2022 Wrocław, Poland
-FINANCIAL ANALYST BANK OF NEW YORK MELLON
+
+
+FINANCIAL ANALYST BANK OF NEW YORK MELLON (01/02/2022 – 31/08/2022 Wrocław, Poland)
 As an Analyst at the Luxembourg Branch of BNY Mellon, I was responsible for the accurate processing and
 maintenance of partnership registers and documentation flow for private equity funds under the
 department's custody, including BlackRock, SEB, KKR and Allianz. Additionally, I was responsible for
 overseeing cash transfers and monitoring cash flow for these funds.
-01/10/2020 – 30/09/2022 Wrocław, Poland
-REAL ESTATE AGENT NIERUCHOMOŚCI WIELUŃSKI
+
+
+REAL ESTATE AGENT NIERUCHOMOŚCI WIELUŃSKI (01/10/2020 – 30/09/2022 Wrocław, Poland)
 As a Real Estate Agent, I have successfully acquired both buyer and seller clients, expertly navigating the
 buying and selling process, including premium derivatives. I have implemented successful marketing
 strategies for listings, effectively managing legal transactions and building a strong personal brand. I have
