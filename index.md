@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This is blog of Pawel Kazubski
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Made in class 16.01.2022 for excersise purposes
