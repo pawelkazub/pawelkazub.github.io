@@ -7,13 +7,13 @@ Phone number: (+48) 667876671 (Mobile) Email address: pawelkazub@gmail.com
 Address: Kwiatowa 18, 55-095, Mirków, Poland (Home)
 Address: Madird, Spain (Second address)
 
-About me:
+#About me:
 A highly skilled and versatile individual nearing completion of a Master's degree
 with a diverse set of abilities in customer service, marketing, sales, and
 investment banking. Seeking new opportunities to continue to expand and
 apply my skill set in a professional setting.
 
-
+#Expirience
 FINANCIAL ANALYST BANK OF NEW YORK MELLON (01/02/2022 – 31/08/2022 Wrocław, Poland)
 As an Analyst at the Luxembourg Branch of BNY Mellon, I was responsible for the accurate processing and
 maintenance of partnership registers and documentation flow for private equity funds under the
@@ -33,17 +33,16 @@ Proven track record of successfully managing sales of rental products including 
 accessories. Expertise in acquiring and servicing individual customers, both in English and native language.
 Skilled in managing a fleet of several dozen vehicles, ensuring efficient operation and maintenance.
 
-01/10/2018 – 20/01/2022 Wrocław, Poland
-SYSTEMS ENGINEERING Wroclaw University of Science and Technology
+SYSTEMS ENGINEERING Wroclaw University of Science and Technology (01/10/2018 – 20/01/2022 Wrocław, Poland)
 Address wybrzeże Stanisława Wyspiańskiego 27, Wrocław, Poland Website https://pwr.edu.pl/en/
 Field of study Information and Communication Technologies Final grade 4,5
 Thesis Design a business model for a selected IT business
 
+MASTER OF SCIENCE IN MANAGEMENT (MANAGERIAL BEHAVIOR AND DECISIONS) 
 01/03/2022 – CURRENT Wrocław, Poland
-MASTER OF SCIENCE IN MANAGEMENT (MANAGERIAL BEHAVIOR AND DECISIONS) Wroclaw
 Univeristy of Science and Technology
 
-
+#Summury
 I am currently pursuing a Master of Science in Management with a focus on Managerial Behavior and
 Decisions. I am also on a one-year exchange program at Universidad Pontificia Comillas ICAI-ICADE in
 Madrid, Spain, which is considered one of the best private universities in the country. This field of study
@@ -52,5 +51,3 @@ organizational culture and structure on those decisions. Through coursework and 
 developing my skills in analyzing and interpreting complex organizational situations, evaluating decisionmaking processes, and identifying ways to improve organizational performance. I am also gaining a deeper
 understanding of the factors that influence human behavior in the workplace, including motivation,
 communication, and leadership. This program is preparing me for a career in management, where I can
-WORK EXPERIENCE
-EDUCATION AND TRAINING
