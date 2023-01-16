@@ -1,4 +1,4 @@
-## This is my first blog post
+## Paweł Kazubski
 
 Date of birth: 09/04/1999 
 Nationality: Polish 
@@ -27,19 +27,23 @@ buying and selling process, including premium derivatives. I have implemented su
 strategies for listings, effectively managing legal transactions and building a strong personal brand. I have
 also established lasting relationships with clients, resulting in a total of 4.5 million PLN in brokerage
 contracts for the company.
-01/06/2018 – 28/02/2020 Wrocław, Poland
-CUSTOMER SERVICE REPRESENTATIVE GREENMOTION INTERNATIONAL
+
+CUSTOMER SERVICE REPRESENTATIVE GREENMOTION INTERNATIONAL (01/06/2018 – 28/02/2020 Wrocław, Poland)
 Proven track record of successfully managing sales of rental products including rentals, insurance, and
 accessories. Expertise in acquiring and servicing individual customers, both in English and native language.
 Skilled in managing a fleet of several dozen vehicles, ensuring efficient operation and maintenance.
+
 01/10/2018 – 20/01/2022 Wrocław, Poland
 SYSTEMS ENGINEERING Wroclaw University of Science and Technology
 Address wybrzeże Stanisława Wyspiańskiego 27, Wrocław, Poland Website https://pwr.edu.pl/en/
 Field of study Information and Communication Technologies Final grade 4,5
 Thesis Design a business model for a selected IT business
+
 01/03/2022 – CURRENT Wrocław, Poland
 MASTER OF SCIENCE IN MANAGEMENT (MANAGERIAL BEHAVIOR AND DECISIONS) Wroclaw
 Univeristy of Science and Technology
+
+
 I am currently pursuing a Master of Science in Management with a focus on Managerial Behavior and
 Decisions. I am also on a one-year exchange program at Universidad Pontificia Comillas ICAI-ICADE in
 Madrid, Spain, which is considered one of the best private universities in the country. This field of study
