@@ -1,7 +1,7 @@
 ## Paweł Kazubski CV
 
-Date of birth: 09/04/1999 
-Nationality: Polish 
+Date of birth: 09/04/1999  
+Nationality: Polish  
 Gender: Male 
 Phone number: (+48) 667876671 (Mobile) Email address: pawelkazub@gmail.com
 Address: Kwiatowa 18, 55-095, Mirków, Poland (Home)
